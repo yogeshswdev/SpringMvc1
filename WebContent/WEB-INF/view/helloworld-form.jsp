@@ -3,7 +3,8 @@
 <title>Hello world - Iput form</title>
 </head>
 <body>
-<form action="processForm" method = "GET">
+
+<form action="/hello/processFormVersionThree" method = "GET">
 <input type = "text" name ="studentName"
 placeholder="What's your name?" />
 
